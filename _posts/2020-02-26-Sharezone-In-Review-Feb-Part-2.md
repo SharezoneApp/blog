@@ -10,7 +10,7 @@ In dem Beitrag geht es um die letzten beiden Wochen im Februar.*
 ## Pitch-Deck Feedback
 Wie bereits bei der [letzten Review]({{ site.baseurl }}/Sharezone-In-Review-Feb-Part-1) erwähnt, sind wir momentan dabei an einem Pitch-Deck am arbeiten, um von möglichen Investoren aus ein Feedback auf Sharezone aus der "Business-Sicht" zu bekommen.  
 
-Letzte Woche haben wir nun mit ersten Gespräche geführt. Diese Leute kannten wir bereits und wir wollten hauptsächlich erstmal die gröbsten Fehler unseres Pitches ausbügeln, bevor wir in den kommenden Wochen zu den "richtigen" Gesprächen kommen.
+Letzte Woche haben wir nun die ersten Gespräche geführt. Diese Leute kannten wir bereits und wir wollten hauptsächlich erstmal die gröbsten Fehler unseres Pitches ausbügeln, bevor wir in den kommenden Wochen zu den "richtigen" Gesprächen kommen.
 
 Gesprochen haben wir mit
 * einem Geschäftsführer von einem deutschen Venture-Capital-Unternehmen, welcher zusätzlich sein eigenes Cyber-Secruity-Unternehmen gegründet hatte,
