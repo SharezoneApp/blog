@@ -28,7 +28,7 @@ Beispielsweise haben wir unsere erste Version des Pitch-Decks mit zu viel Text/I
 Beispielsweise sieht man auf dem Bild der alten Slide, dass diese zu viel Text hat, als dass man diese bei der Präsentation lesen könnte. Man konzentiert sich ja auch aufs zuzuhören. Besser ist es auf Slides eher Bilder, Icons und wenig Text zu haben, das meiste sagt man ja in der Live-Präsentation mündlich.
 
 **Mehr aus Investoren-Sicht argumentieren**\
-Weiterhin haben wir in dem ersten Pitch-Deck den Fehler gemacht zu viel aus Nutzer-Sicht zu argumentieren, d.h. warum Sharezone für Nutzer gut ist, aber gleichzeitig zu wenig den Investor "gecatched" und gezeigt warum er denn in uns investieren sollte.
+Weiterhin haben wir in dem ersten Pitch-Deck den Fehler gemacht, zu viel aus Nutzer-Sicht zu argumentieren, d.h. warum Sharezone für Nutzer gut ist, aber gleichzeitig zu wenig den Investor "gecatched" und gezeigt warum er denn in uns investieren sollte.
 
 Praktisch heißt das, dass wir jetzt am Anfang der Präsentation direkt unsere Traktion (Nutzer) und Erfolge zeigen und letztendlich dem Investor vermitteln "wir haben Interesse von vielen Kunden, wir können aber aktuell nicht weitermachen. Das einzige was uns noch fehlt bist du."
 So will man das Interesse vom Investor wecken. Die Details, die kommen dann später.
@@ -46,7 +46,7 @@ Bei einem Investoren-Gespräch kann man dann sofort den Bildschirm teilen und w�
 
 Neben den Pitch-Gesprächen hatten wir uns mit einem jungem Gründer auf [unserem Discord](https://sharezone.net/discord) unterhalten. Er ist Co-Founder einer [Softwareentwicklungs-Firma](https://www.tapped.dev/) und dabei eine [Plattform für Musikschulen](https://www.appella.app/) zu entwickeln, welche schon fast ein bisschen Sharezone ähnelt 😉
 
-Nicht nur er, sondern auch ganz viele andere coole Leute sind in unserer Discord-Community am Start. Die einzige Person, die noch fehlt bist du!\
+Nicht nur er, sondern auch ganz viele andere coole Leute sind in unserer Discord-Community am Start. Die Einzige Person, die noch fehlt bist du!\
 In Discord teilen wir öfters Ideen, Vorschläge etc. und sind für alle Fragen offen.\
 Wenn du willst, dann kannst du direkt [hier beitreten]((https://sharezone.net/discord)) 🙌
 
