@@ -30,7 +30,7 @@ Beispielsweise sieht man auf dem Bild der alten Slide, dass diese zu viel Text h
 **Mehr aus Investoren-Sicht argumentieren**\
 Weiterhin haben wir in dem ersten Pitch-Deck den Fehler gemacht, zu viel aus Nutzer-Sicht zu argumentieren, d.h. warum Sharezone für Nutzer gut ist, aber gleichzeitig zu wenig den Investor "gecatched" und gezeigt warum er denn in uns investieren sollte.
 
-Praktisch heißt das, dass wir jetzt am Anfang der Präsentation direkt unsere Traktion (Nutzer) und Erfolge zeigen und letztendlich dem Investor vermitteln "wir haben Interesse von vielen Kunden, wir können aber aktuell nicht weitermachen. Das einzige was uns noch fehlt bist du."
+Praktisch heißt das, dass wir jetzt am Anfang der Präsentation direkt unsere Traktion (Nutzer) und Erfolge zeigen und letztendlich dem Investor vermitteln "wir haben Interesse von vielen Kunden, wir können aber aktuell nicht weitermachen. Das Einzige was uns noch fehlt bist du."
 So will man das Interesse vom Investor wecken. Die Details, die kommen dann später.
 
 ![TODO]({{ site.baseurl }}/images/Sharezone-In-Review-Feb-Part-2/investor-catch-slide.png)
