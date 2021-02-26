@@ -46,7 +46,7 @@ Bei einem Investoren-Gespräch kann man dann sofort den Bildschirm teilen und w�
 
 Neben den Pitch-Gesprächen hatten wir uns mit einem jungem Gründer auf [unserem Discord](https://sharezone.net/discord) unterhalten. Er ist Co-Founder einer [Softwareentwicklungs-Firma](https://www.tapped.dev/) und dabei eine [Plattform für Musikschulen](https://www.appella.app/) zu entwickeln, welche schon fast ein bisschen Sharezone ähnelt 😉
 
-Nicht nur er, sondern auch ganz viele andere coole Leute sind in unserer Discord-Community am Start. Die Einzige Person, die noch fehlt bist du!\
+Nicht nur er, sondern auch ganz viele andere coole Leute sind in unserer Discord-Community am Start. Die einzige Person, die noch fehlt bist du!\
 In Discord teilen wir öfters Ideen, Vorschläge etc. und sind für alle Fragen offen.\
 Wenn du willst, dann kannst du direkt [hier beitreten]((https://sharezone.net/discord)) 🙌
 
