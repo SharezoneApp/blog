@@ -38,7 +38,7 @@ So will man das Interesse vom Investor wecken. Die Details, die kommen dann spä
 **Life Pro Tip: Cover-Slide mit Intro**
 ![Präsentations-Slide mit genereller Beschreibung über Sharezone plus Bild von zwei Handys]({{ site.baseurl }}/images/Sharezone-In-Review-Feb-Part-2/pitch-deck-first-slide.png)
 
-Ein Super Tip ist auch, dass man als Cover-Slide nicht nur ein fetten Text wie z.B. "Sharezone" reinmacht, sondern direkt eine kurze Übersicht präsentiert.  
+Ein Super Tipp ist auch, dass man als Cover-Slide nicht nur ein fetten Text wie z.B. "Sharezone" reinmacht, sondern direkt eine kurze Übersicht präsentiert.  
 
 Bei einem Investoren-Gespräch kann man dann sofort den Bildschirm teilen und während der Gegenüber noch im Smalltalk ist oder sich fertig macht, kann dieser direkt sehen, was das Startup macht und worum es geht.
 
@@ -51,6 +51,6 @@ In Discord teilen wir öfters Ideen, Vorschläge etc. und sind für alle Fragen 
 Wenn du willst, dann kannst du direkt [hier beitreten]((https://sharezone.net/discord)) 🙌
 
 Diese Woche haben wir außerdem ein geheimes Projekt geplant, welches wir in den kommenden Wochen ankündigen wollen 😎\
-Was meint ihr was das sein könnte? Schreibt uns gerne eure Ideen :)
+Was meint ihr, was das sein könnte? Schreibt uns gerne eure Ideen :)
 
 ~ Jonas
