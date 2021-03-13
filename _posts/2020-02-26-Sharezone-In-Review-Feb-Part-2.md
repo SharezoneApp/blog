@@ -25,7 +25,7 @@ Beispielsweise haben wir unsere erste Version des Pitch-Decks mit zu viel Text u
 
 ![TODO]({{ site.baseurl }}/images/Sharezone-In-Review-Feb-Part-2/too-much-text-slide.png)
 
-In diesem Auschnitt der alten Slide, dass sie zu viel Text hatte, als dass man alles bei einer Präsentation lesen könnte. Man konzentiert sich ja auch aufs zuzuhören. Besser ist es, auf Slides eher Bilder, Icons und wenig Text zu packen, das meiste spricht man ja schließlich in der Live-Präsentation an.
+Bei diesem alten Ausschnitt erkannt man, dass dieser zu viel Text hatte, als dass man alles während der Präsentation lesen könnte. Man konzentiert sich ja auch aufs zuhören. Besser ist es, eher Bilder, Icons und wenig Text zu benutzen - das meiste spricht man ja schließlich in der Live-Präsentation selbst an, wodurch der Text redundant wäre.
 
 **Mehr aus Investoren-Sicht argumentieren**\
 Weiterhin haben wir in dem ersten Pitch-Deck den Fehler gemacht, zu viel aus Nutzer-Sicht zu argumentieren, d.h. warum Sharezone für Nutzer gut ist, aber gleichzeitig zu wenig den Investor "gecatched" und gezeigt warum er denn in uns investieren sollte.
