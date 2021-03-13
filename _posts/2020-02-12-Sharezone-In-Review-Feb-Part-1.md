@@ -41,7 +41,7 @@ Mit dem Pitch-Deck wollen wir jetzt von ersten Investoren ein Eindruck bekommen,
 
 Falls das klappt, hätten wir einen Pfad, um hoffentlich mehr Manpower hinter das Projekt zu bringen und das beste Schulsystem der Welt zu werden 🔥\
 Falls aus Investoren-Sicht das Projekt nicht mega interessant ist, dann wüssten wir immerhin, dass wir unseren Fokus mehr auf öffentliche Gelder legen sollten. 
-Beides schonmal besser als gar nichts zu wissen :)\
+Beides schon mal besser als gar nichts zu wissen :)\
 Wir schätzen die Lage aber als ganz gut für ein Investment ein. Ihr alle habt ja schon gezeigt, dass unsere Lösung was auf dem Kasten hat! 🙌
 
 ## Sonstiges
