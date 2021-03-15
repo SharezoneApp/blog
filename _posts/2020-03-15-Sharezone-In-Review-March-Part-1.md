@@ -38,7 +38,7 @@ Als letzten Punkt im PR-Marathon hat unser Spitzensporter Nils auch noch ein Pod
 
 [Flutter](https://flutter.dev) ist ein Framework (sozusagen Baukasten), um Apps für viele verschiedene Plattformen zu entwickeln - alles nur mit einer Codebasis (heißt: wir müssen die Logik nur einmal programmieren).  
 
-Wir haben persönlich vor 2 Jahren, als Flutter noch in der Beta-Phase war, angefangen unsere App mit dem Framework zu entwickeln. Im Gegensatz zu anderen Wegen der Entwicklung können wir uns so doppelte Arbeit sparen. 
+Wir haben persönlich vor 3 Jahren, als Flutter noch in der Beta-Phase war, angefangen unsere App mit dem Framework zu entwickeln. Im Gegensatz zu anderen Wegen der Entwicklung können wir uns so doppelte Arbeit sparen. 
 
 Was genau Flutter ist, warum es so viel Aufmerksamkeit erreicht und weitere Erfahrungen könnt ihr euch von Nils [persönlich im Podcast anhören](https://www.programmier.bar/podcast-episodes/folge-84-flutter-mit-nils-reichardt-von-sharezone).
 
