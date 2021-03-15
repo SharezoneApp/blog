@@ -76,7 +76,7 @@ Die Mockups unten sind nur schnell zusammengeklebt und ergeben an vielen Stellen
 ![iPad-Ansicht von Lehrkraft für den Unterricht]({{ site.baseurl }}/images/Sharezone-In-Review-March+-Part-1/aktuelle-stunde-lehrer.svg)
 
 Schreibt uns gerne mal eure Meinung zur Grundidee.   
-Das ganze wird wahrscheinlich nichts sein, was bald kommen wird - es ist eher eine Idee für die fernere Zukunft :)
+Das Ganze wird wahrscheinlich nichts sein, was bald kommen wird - es ist eher eine Idee für die fernere Zukunft :)
 
 ## Sonstiges
 * Wir haben unsere Google-Cloud Startup-Credits noch bis Juli verlängern können! Heißt: Wir können noch länger das Geld für Hosting-Gebühren sparen 🙌
