@@ -29,7 +29,7 @@ Neben dem Vortrag gabs noch mehr von Nils, diesmal im Doppelpakt. rbb24 veröffe
 Mit dem Pilotschul-Programm hatten Schulen die Möglichkeit mit uns zusammen Sharezone für die ganze Schule einzurichten und konstenlos zu betreiben.   
 Dafür versuchen die Schulen möglichst viel Feedback für uns zu sammeln, damit wir wissen an welchen Stellen es in Sharezone für Schulen noch am meisten hakt.    
 
-Im dem Artikel wurde kurz angeschnitten, was Sharezone ist und welche Vorteile es aus der Sicht des stellvertretenden Schulleiters bringt.  
+In dem Artikel wurde kurz angeschnitten, was Sharezone ist und welche Vorteile es aus der Sicht des stellvertretenden Schulleiters bringt.  
 
 ### Podcast über Flutter  
 ![Bild von Nils mit Podcast-Thema "Flutter" von Podcast programmier.bar]({{ site.baseurl }}/images/Sharezone-In-Review-March+-Part-1/programmier.bar nils.png)
