@@ -15,7 +15,7 @@ In dem Beitrag geht es um die ersten beiden Wochen im März.*
 Bei dem Berg an Aufgaben fällt es uns oft schwer viel Öffentlichkeitsarbeit für Sharezone zu machen. Um so besser, dass Nils in den letzten zwei Wochen aber so richtig reingehauen hat: Von einem Vortrag auf einem Bundeskongress, einem Radio-Beitrag mit zugehörigem Artikel, zu einem Podcast, hat er viel von sich in den letzten zwei Wochen hören und blicken lassen.  
 
 ### Vortrag "Warum jede:r ein Startup gründen sollte"
-Nils konnte vor einer versammelten Gruppe von Lehrkräften den Vortrag "Warum jede:r ein Startup gründen sollte". Als Beispiel ging es natülich um das beste Startup der Welt: Sharezone 😉
+Nils konnte vor einer versammelten Gruppe von überwiegend Lehrkräften den Vortrag "Warum jede:r ein Startup gründen sollte". Als Beispiel ging es natürlich um das beste Startup der Welt: Sharezone 😉
 
 Doch warum sollte denn jetzt überhaupt jeder ein Startup gründen? Kurzgefasst: Man lernt Gebietsübergreifend (Marketing, Informatik, Vertrieb, Design, Jura, etc.) sehr viele Sachen auf einer Art und Weise, die traditioneller Unterricht nicht vermittelt.    
 
