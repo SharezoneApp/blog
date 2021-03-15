@@ -3,7 +3,7 @@ layout: post
 title: "Öffentlichkeitsarbeit, Demo-Accounts und Zukunftsideen [SIR]"
 ---
 Durch die klasse Öffentlichkeitsarbeit von Nils, haben wir interessierte Schulen bekommen, denen wir manuell Demoaccounts zur Verfügung gestellt haben.  
-Dass das Anlegen der Accounts noch manuell läuft zeigt eine größere Herausforderung von uns als Gründer auf: Priorisierung.   
+Dass das Anlegen der Accounts noch manuell läuft, zeigt eine größere Herausforderung von uns als Gründer auf: Priorisierung.   
 Nebenbei haben wir an einer Zukunftsidee von Sharezone als Tool im Unterricht gebaut.
 
 *In "[Sharezone In Review]({{ site.baseurl }}/Introducing-Sharezone-In-Review)" stellen wir euch vor, was bei uns gerade bei Sharezone abläuft.\
