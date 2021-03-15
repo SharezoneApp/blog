@@ -19,7 +19,7 @@ Nils konnte vor einer versammelten Gruppe von Lehrkräften den Vortrag "Warum je
 
 Doch warum sollte denn jetzt überhaupt jeder ein Startup gründen? Kurzgefasst: Man lernt Gebietsübergreifend (Marketing, Informatik, Vertrieb, Design, Jura, etc.) sehr viele Sachen auf einer Art und Weise, die traditioneller Unterricht nicht vermittelt.    
 
-Der Vortrag wurde im Rahmen der 112. MNU-Bundeskonferenz zur Förderung des MINT-Unterrichts gehalten. Der Vortrag ist zwar (nach unserem Wissen) nicht auf Youtube, eine ältere Version des Vortrags von Nils kann sich aber [hier](https://www.youtube.com/watch?v=Bg0okdOOnZw) angeguckt werden.
+Der Vortrag wurde im Rahmen der 112. MNU-Bundeskonferenz zur Förderung des MINT-Unterrichts gehalten. Der Vortrag ist zwar nicht auf YouTube, eine ältere Version des Vortrags von Nils kann sich aber [hier](https://www.youtube.com/watch?v=Bg0okdOOnZw) angeguckt werden.
 
 ### Radio-Beitrag mit Artikel über Pilotschule in Berlin
 ![Überschrift und Sub-Überschrift des rbb24-Artikels]({{ site.baseurl }}/images/Sharezone-In-Review-March+-Part-1/rbb-artice-intro.png)
