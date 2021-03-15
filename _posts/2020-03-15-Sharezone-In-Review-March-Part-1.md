@@ -47,7 +47,7 @@ Die Folgen der Öffentlichkeitsarbeit blieben nicht unentdeckt. Es erreichten un
 
 Die Schulen fragten nach Demo-Accounts, mit welchen man die verschiedenen Funktionen von Sharezone mal ausprobieren könne. Die Demoaccounts haben wir natürlich prompt erstellt und geliefert, allerdings mit mehr Zeitaufwand, als uns Lieb ist: Demoaccounts müssen wir immer noch manuell erstellen - Regstrieren, Inhalte aufsetzen, Dateien hochladen usw. Sowas sollten wir doch schon längst automatisiert haben!
 
-Es zeigt sich ein altes Problem: Nils und Ich sind beide Entwickler, die entweder am Produkt entwickeln oder dringende Aufgaben des Unternehmens erledigen.  
+Es zeigt sich ein altes Problem: Nils und ich sind beide Entwickler, die entweder am Produkt entwickeln oder dringende Aufgaben des Unternehmens erledigen.  
 
 Dadurch, dass es allerdings noch so viele Aufgaben in allen Bereichen von Sharezon gibt, schaffen wir es oft nicht hinter allen hinterher zu kommen.  
 Es bleiben schnell Aufgaben liegen, die zwar wichtig, aber nicht direkt dringend sind - Beispielsweise eine automatisierte Erstellung von Demo-Accounts, die uns viel Zeit und Arbeit ersparen und Schulen besser adressieren würde (falls diese direkt selbst Demo-Accounts erstellen könnten). 
