@@ -36,7 +36,7 @@ Im dem Artikel wurde kurz angeschnitten, was Sharezone ist und welche Vorteile e
 
 Als letzten Punkt im PR-Marathon hat unser Spitzensporter Nils auch noch ein Podcast aufgenommen. Diesmal ging diesmal nicht um Sharezone, sondern um ein Werkzeug, welches wir benutzen: Flutter.
 
-Flutter ist ein Framework (sozusagen Baukasten), um Apps für viele verschiedene Plattformen zu entwickeln - alles nur mit einer Codebasis (heißt: wir müssen die Logik nur einmal programmieren).  
+[Flutter](https://flutter.dev) ist ein Framework (sozusagen Baukasten), um Apps für viele verschiedene Plattformen zu entwickeln - alles nur mit einer Codebasis (heißt: wir müssen die Logik nur einmal programmieren).  
 
 Wir haben persönlich vor 2 Jahren, als Flutter noch in der Beta-Phase war, angefangen unsere App mit dem Framework zu entwickeln. Im Gegensatz zu anderen Wegen der Entwicklung können wir uns so doppelte Arbeit sparen. 
 
