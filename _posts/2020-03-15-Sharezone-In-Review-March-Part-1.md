@@ -80,7 +80,7 @@ Das Ganze wird wahrscheinlich nichts sein, was bald kommen wird - es ist eher ei
 
 ## Sonstiges
 * Wir haben unsere Google-Cloud Startup-Credits noch bis Juli verlängern können! Heißt: Wir können noch länger das Geld für Hosting-Gebühren sparen 🙌
-* Jonas hat sich bei einem Startup-Programm in seiner Heimat Siegen beworben - So können wir hoffentlich auch lokal noch von einem Gründernetzwerk profitieren 👍
+* Ich habe mich bei einem Startup-Programm in meiner Heimat Siegen beworben - So können wir hoffentlich auch lokal noch von einem Gründernetzwerk profitieren 👍
 * Das Teaser-Pitch-Deck (zum verschicken per E-Mail) ist so weit strukturell fertig und kann hoffentlich bald losgeschickt werden ✉️🔥
 
 Das wars!      
