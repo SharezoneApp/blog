@@ -24,7 +24,7 @@ Der Vortrag wurde im Rahmen der 112. MNU-Bundeskonferenz zur Förderung des MINT
 ### Radio-Beitrag mit Artikel über Pilotschule in Berlin
 ![Überschrift und Sub-Überschrift des rbb24-Artikels]({{ site.baseurl }}/images/Sharezone-In-Review-March+-Part-1/rbb-artice-intro.png)
 
-Neben dem Vortrag gabs noch mehr von Nils, diesmal im Doppelpack. rbb24 veröffentlichte ein Radiosegment und [einen kurzen Artikel](https://www.rbb24.de/panorama/thema/corona/beitraege/2021/03/lern-app-berlin-pilotprojekt-grundschule.html) über eine berliner Grundschule, welche Teil unseres Pilotschul-Programms ist.  
+Neben dem Vortrag gabs noch mehr von Nils, diesmal im Doppelpack. rbb24 veröffentlichte ein Radiosegment und [einen kurzen Artikel](https://www.rbb24.de/panorama/thema/corona/beitraege/2021/03/lern-app-berlin-pilotprojekt-grundschule.html) über eine Berliner Grundschule, welche Teil unseres Pilotschul-Programms ist.  
 
 Mit dem Pilotschul-Programm hatten Schulen die Möglichkeit, mit uns zusammen Sharezone für die ganze Schule einzurichten und konstenlos zu betreiben.   
 Dafür versuchen die Schulen, möglichst viel Feedback für uns zu sammeln, damit wir wissen, an welchen Stellen es in Sharezone für Schulen noch am meisten hakt.    
