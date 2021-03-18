@@ -49,7 +49,7 @@ Die Schulen fragten nach Demo-Accounts, mit welchen man die verschiedenen Funkti
 
 Es zeigt sich ein altes Problem: Nils und ich sind beide Entwickler, die entweder am Produkt entwickeln oder dringende Aufgaben des Unternehmens erledigen.  
 
-Dadurch, dass es allerdings noch so viele Aufgaben in allen Bereichen von Sharezon gibt, schaffen wir es oft nicht, hinter allen hinterher zu kommen.  
+Dadurch, dass es allerdings noch so viele Aufgaben in allen Bereichen von Sharezone gibt, schaffen wir es oft nicht, hinter allen hinterherzukommen.
 Es bleiben schnell Aufgaben liegen, die zwar wichtig, aber nicht direkt dringend sind - Beispielsweise eine automatisierte Erstellung von Demo-Accounts, die uns viel Zeit und Arbeit ersparen und Schulen besser adressieren würde (falls diese direkt selbst Demo-Accounts erstellen könnten). 
 
 Das ganze Thema "Sales/Marketing" ist etwas, wo wir noch viel mehr tun sollten, aber es bisher noch nicht richtig priorisiert haben. Alleine unsere Website ist ja kaum mehr als eine Seite an Inhalt 😁   
